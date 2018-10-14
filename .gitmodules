@@ -1,0 +1,9 @@
+[submodule "axon-bank-javaee"]
+	path = axon-bank-javaee
+	url = https://github.com/hwellmann/axonbank-javaee
+        branch = cdi-2.0
+[submodule "cdi"]
+	path = cdi
+	url = https://github.com/hwellmann/cdi
+        branch = cdi-2.0
+

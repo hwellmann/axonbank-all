@@ -10,7 +10,7 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>cdi</module>
+        <module>cdi/extension</module>
         <module>axon-bank-javaee</module>
     </modules>
 
